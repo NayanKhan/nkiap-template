@@ -1,0 +1,447 @@
+@media (max-width:1272px) {
+    #banner .banner_overlay h1 {
+        font-size: 30px;
+    }
+
+    #project .projec_images .overlay {
+        width: 180px;
+    }
+
+    #project .project_menu ul li {
+        margin-right: 20px;
+    }
+
+}
+
+@media (max-width: 991px) {
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.6)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+    }
+
+    .navbar-toggler,
+    .navbar-toggler:focus,
+    .navbar-toggler:hover {
+        border: 0;
+        outline: 0;
+        width: 30%;
+        text-align: right;
+
+    }
+
+    #navigation {
+        top: 0;
+    }
+
+
+    #navigation .navbar .navbar-band {
+        width: 100px;
+    }
+
+    #navigation .navbar .navbar-nav .nav-item .nav-link {
+        color: #000;
+        line-height: 30px;
+    }
+
+    #navigation .navbar .navbar-nav {
+        background: #fff;
+        border-top: 1px solid rgba(255, 255, 255, .5);
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    #navigation.navbar-fixed nav .navbar-nav {
+        border-top: 1px solid rgba(0, 0, 0, 0.2);
+        padding-top: 30px;
+    }
+
+    #banner .banner_overlay {
+        background: rgba(71, 74, 92, 0.53);
+        height: 100%;
+        align-items: center;
+        position: inherit;
+        display: inherit;
+        padding-top: 100px;
+        padding-bottom: 60px;
+        text-align: center;
+    }
+
+    #banner .banner_overlay h1 {
+        font-size: 34px
+    }
+
+    #banner .banner_overlay p {
+        padding: 15px 0px;
+    }
+
+    #banner .banner_overlay .forms {
+        max-width: 400px;
+        padding: 50px;
+        position: inherit;
+        right: inherit;
+        top: inherit;
+        transform: inherit;
+        margin: 20px auto;
+        width: 100%;
+    }
+
+    .about_bottom {
+        padding: 40px 0px 50px;
+    }
+
+    .about_top .about_item {
+        text-align: center;
+        padding: 50px 80px;
+    }
+
+    .about_bottom .ab_btm_right {
+        text-align: center;
+    }
+
+    #video .video_overlay {
+        height: 300px;
+    }
+
+    #video .video_overlay i {
+        padding-top: 0px;
+    }
+
+    .video_content p {
+        padding-top: 10px;
+    }
+
+    .section_title h4 {
+        font-size: 22px;
+    }
+
+    .section_title h2 {
+        font-size: 28px;
+        padding-bottom: 20px;
+    }
+
+    .section_title p {
+        line-height: 26px;
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+
+    .section_title h4 {
+        font-size: 17px;
+        padding-bottom: 5px;
+    }
+
+    #process {
+        padding: 70px 0px;
+    }
+
+    #process .pro_item {
+        margin-top: 40px;
+    }
+
+    #process .pro_item .pro_img {
+        width: 80px;
+    }
+
+    #process .pro_item .pro_text {
+        margin-left: 0;
+    }
+
+    #process .pro_item .pro_text h5 {
+        padding-bottom: 10px;
+        padding-top: 15px;
+    }
+
+    .common_item {
+        margin-top: 30px;
+    }
+
+
+    #process .pro_bg_img {
+        position: inherit;
+        right: inherit;
+        top: inherit;
+        transform: inherit;
+        content: '';
+        width: 100%;
+    }
+
+    #counter {
+        padding: 50px 0px;
+    }
+
+    #counter .counter_content h3 {
+        font-size: 30px;
+    }
+
+    #counter .counter_content p {
+        font-size: 16px;
+        padding-bottom: 20px;
+    }
+
+    #service {
+        padding: 60px 0px 60px;
+    }
+
+    #project {
+        padding: 30px 0px 40px;
+    }
+
+    #team .team_text {
+        margin-bottom: 40px;
+    }
+
+    #team {
+        padding: 30px 0px;
+    }
+
+    #testimonial {
+        padding: 50px 0px 50px;
+    }
+
+    #project .project_title {
+        padding-bottom: 15px;
+    }
+
+    #project .project_menu {
+        float: left;
+        padding-bottom: 10px;
+        margin-bottom: 40px;
+    }
+
+    #testimonial .test_content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    #testimonial .test_item {
+        margin-bottom: 40px;
+    }
+
+    #contact .text {
+        padding-top: 15px;
+    }
+
+    .footer_top .achive,
+    .footer_top .news {
+        padding-top: 30px;
+    }
+
+    .footer_top {
+        padding: 40px 0px;
+    }
+
+    #contact {
+        padding-bottom: 40px;
+    }
+
+    #contact .section_title h2 {
+        padding-bottom: 40px;
+    }
+
+    .contact_right {
+        text-align: center;
+    }
+
+    .footer_bottom {
+        padding: 20px 0px;
+    }
+}
+
+@media (max-width: 767px) {
+
+
+    #banner .banner_overlay h2 {
+        font-size: 20px;
+    }
+
+    #banner .banner_overlay h1 {
+        font-size: 25px;
+        padding-top: 5px;
+    }
+
+    #banner .banner_overlay p {
+        padding: 10px 0px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    #banner .banner_overlay a {
+        line-height: 40px;
+        font-size: 14px;
+        padding: 0px 35px;
+    }
+
+    #banner .banner_overlay {}
+
+    #banner .banner_overlay .forms {
+        padding: 30px;
+    }
+
+    #banner .banner_overlay .forms h3 {
+        font-size: 18px;
+    }
+
+    .forms button {
+        font-size: 14px;
+    }
+
+    .about_top .about_item {
+        text-align: center;
+        margin: 0px 15px;
+    }
+
+    .about_top .about_item .text h4 {
+        padding-top: 15px;
+    }
+
+    .about_top .about_item .text p {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .about_bottom .bottom_content p {
+        padding-top: 15px;
+        line-height: 24px;
+        font-size: 14px;
+        text-align: justify;
+        padding-right: 15px;
+    }
+
+    .common_item {
+        margin-top: 30px;
+    }
+
+    .about_top .about_item {
+        padding: 15px 0px;
+        margin-bottom: 15px;
+    }
+
+    .about_bottom .common_item {
+        text-align: center;
+    }
+
+    .about_bottom .common_item .common_img {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .common_item .common_text h4 {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    #counter .counter_content p {
+        font-size: 12px;
+    }
+
+    .section_title h2 {
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+
+    .section_title p {
+        line-height: 24px;
+        font-size: 14px;
+        padding-bottom: 20px;
+    }
+
+    .section_title h4 {
+        font-size: 17px;
+        padding-bottom: 5px;
+    }
+
+    #service .common_item {
+        padding: 40px 15px;
+    }
+
+    .common_item .common_text p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .common_item .common_text h4 {
+        font-size: 18px;
+    }
+
+    #project .project_title h4 {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+
+    #project {
+        padding: 20px 0px 40px;
+    }
+
+    #project .projec_images .overlay {
+        height: 130px;
+    }
+
+    #project .project_title {
+        padding-bottom: 20px;
+    }
+
+    #project .project_menu {
+        float: left;
+        border-bottom: none;
+        display: inline-block;
+        padding-bottom: 10px;
+        margin-bottom: 40px;
+    }
+
+    #project .project_menu li button::after {
+        bottom: -6px;
+    }
+
+    #project .project_menu ul li {
+        margin-right: 30px;
+    }
+
+    .section_title h2::before {
+        bottom: 0;
+    }
+
+
+    #contact .section_title p {
+        padding-top: 15px;
+    }
+
+    .footer_top .stp,
+    .footer_top .achive,
+    .footer_top .news {
+        padding-top: 30px;
+    }
+
+    .footer_bottom ul li a {
+        padding-left: 20px;
+    }
+
+    .footer_bottom {
+        padding: 20px 0px;
+    }
+
+}
+
+@media (max-width: 575px) {
+    .navbar-light .navbar-brand {
+        width: 100px;
+        margin-left: 15px;
+    }
+
+    #team .team_img {
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .footer_bottom .icon {
+        float: left;
+    }
+
+    .footer_bottom p {
+        font-size: 12px;
+        padding-left: 15px;
+    }
+
+    .footer_bottom ul li a {
+        padding-left: 15px;
+    }
+}
